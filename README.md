@@ -43,7 +43,7 @@ streamlit run streamlit_app.py
 
 ## Live app
 
-[Add the deployed Streamlit Community Cloud link here once deployed]
+https://mental-health-in-tech-eda-crssgodm9g9v9d6uu6yu3r.streamlit.app/
 
 ## Dataset source
 
